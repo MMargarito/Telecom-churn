@@ -18,8 +18,8 @@ InternetService: Type of internet service (DSL, Fiber optic, No).
 OnlineSecurity: Whether the customer has online security (Yes, No, No internet).  
 TechSupport: Whether the customer has tech support (Yes, No, No internet).  
 Churn: Whether the customer churned (Yes, No).  
-Demographics: Age (18–80), Gender (Male, Female), SeniorCitizen (0 or 1).
-The dataset is available here or can be generated synthetically if needed.
+Demographics: Age (18–80), Gender (Male, Female),
+SeniorCitizen (0 or 1).
 
 Project Objectives:
 Exploratory Data Analysis (EDA):  
